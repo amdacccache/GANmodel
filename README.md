@@ -11,7 +11,7 @@ This GAN framework was built using PerceptiLabs and following allong with their 
 # Model Structure
 
 * **/gan_mnist**: contains the data file
-* **/checkkpointt**: contains the checkpoint model, index, and data checkpoints.
+* **/checkkpoint**: contains the checkpoint model, index, and data checkpoints.
 * **/Model**: contains the PerceptiLabs model file (model.json).
 * **/Model**: contains the Jupyter Notebook that contains the model code (GANmodel.ipynb).
 
