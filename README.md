@@ -2,7 +2,7 @@
 
 # PerceptiLabs Community Model
 
-This GAN framework was built using PerceptiLabs and following allong with their tutorial series on building a machine learning model from scratch.
+This GAN framework was built using PerceptiLabs and following along with their tutorial series on building a machine learning model from scratch.
 
 * Using the PerceptiLabs platform I built a Generative Adversarial Network (GAN) machine learning model. 
 * In this model the generator took randomly generated numbers to test against the discriminator. 
